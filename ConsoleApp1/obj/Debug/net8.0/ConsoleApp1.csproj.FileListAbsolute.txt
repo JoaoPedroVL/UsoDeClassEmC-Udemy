@@ -1,0 +1,14 @@
+C:\Users\NESKI\Documents\Nova pasta\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NESKI\Documents\Nova pasta\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\NESKI\Documents\Nova pasta\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\NESKI\Documents\Nova pasta\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\NESKI\Documents\Nova pasta\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\NESKI\Documents\Nova pasta\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\NESKI\Documents\Nova pasta\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\NESKI\Documents\Nova pasta\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\NESKI\Documents\Nova pasta\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\NESKI\Documents\Nova pasta\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\NESKI\Documents\Nova pasta\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\NESKI\Documents\Nova pasta\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\NESKI\Documents\Nova pasta\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\NESKI\Documents\Nova pasta\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
